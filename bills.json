@@ -1,0 +1,11 @@
+{"bill": 
+{"apartment":"apart-polanka",
+"kwota": 1500,
+"data_platnosci": "5.10.2026",
+"typ_rachunku": "nie wiem"},
+
+"bill2": 
+{"apartment":"polanka",
+"kwota": 1530,
+"data_platnosci": "5.10.2026",
+"typ_rachunku": "nie wiem"}}
